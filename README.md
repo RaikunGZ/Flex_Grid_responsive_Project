@@ -64,6 +64,7 @@ Die Kunden der webseite sollen eine Möglichkeit haben Probleme und Fragen schne
 - Auf jeder Seite sollte unten Links ein kleines Hilfe Fenster aufploppen (wenn möglich nach 5 Sekunden), dieses sollte sich beim scrollen nicht aus der unteren rechten ecke bewegen
 - Der Hilfe Button sollte gräulich sein und folgenden Text enthalten: " Benötigen Sie Hilfe?"
 - Dieser Button sollte sich beim drüber hovern ändern: Farbe: grün Text: "Um Hilfe bitten!"
+- Wenn die Seiten fertig sind, Scannt den QR-Code mit dem Handy!
 
 
 ### Formulare
