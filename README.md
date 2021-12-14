@@ -27,7 +27,9 @@ Versucht hierbei möglich genau festzuhalten (commit) was ihr an den Datein ver�
   - Loginbereich für Bestandskunden inkl. Register Button!
   - Footer mit Links zu Contakten, Impressum und weiteres (href="#" langt)
 
-Dies ist nur ein ![Beispielbild](./examples/Landingpage_example.png)
+Dies ist nur ein Beispielbild!
+
+![Beispielbild](./examples/Landingpage_example.png)
 
 ## Nebenseite (Register)
  Erstellt als nächstes eine Seite auf der sich neue Benutzer registrieren können, welche Daten abgefragt werden ist euch überlassen. (min. 8 Daten)
